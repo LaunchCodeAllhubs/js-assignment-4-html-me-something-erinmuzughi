@@ -7,6 +7,7 @@
     margin-bottom: 50px;
 }
 body {
+    display: block;
     font-family: roboto;
     background-color: white;
     padding-left: 100px;
@@ -43,6 +44,9 @@ p {
   }
 .funParagraph {
     color:green;
+}
+img {
+    padding: 10px;
 }
   footer {
     background-color: navy; 
